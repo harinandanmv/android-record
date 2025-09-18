@@ -1,6 +1,6 @@
 # 📱 Android Development Record — An Overview
 
-Welcome! This repository contains my **Android Development practical experiments and project**, created as part of my coursework.
+Welcome! This repository contains my **Android Development practical experiments**, created as part of my coursework.
 Each experiment explores a specific **Android concept**, from simple UI creation to advanced topics like notifications, sensors, and database management.
 
 ---
@@ -60,7 +60,6 @@ Each experiment is designed to strengthen understanding of:
 37. List all sensors in the device
 38. Change background color on device shake (Accelerometer)
 39. Display current location (latitude & longitude)
-40. **Project**
 
 ---
 
